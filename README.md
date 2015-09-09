@@ -13,7 +13,7 @@ Features
 
 Building
 --------
- 1. Clone the project and cd to the directory of the sample you want to build.
+ 1. Clone the project and cd to its directory.
  2. Run:  
     ```
     cabal sandbox init
